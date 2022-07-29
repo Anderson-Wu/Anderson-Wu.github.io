@@ -2,10 +2,9 @@
 title: Anderson's page
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://Anderson-Wu.github.io
-avatar: /avatar.jpeg
+avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
 
 # Gems
 plugins:
