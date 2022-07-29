@@ -1,6 +1,6 @@
 # Setup
 title: Anderson's page
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+description: ""
 url: https://Anderson-Wu.github.io
 avatar: /avatar.jpg
 paginate: 5
@@ -27,12 +27,9 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
-  name: Ａnderson-Wu
+  name: Anderson-Wu
   links:
     - https://github.com/Anderson-Wu
 google_site_verification: xxxxx
